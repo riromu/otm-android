@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <string name="app_name">Xiriarbre</string>
+    <string name="app_name">Open Tree Map</string>
     <string name="filter_button">Filtra</string>
     <string name="add_tree_button">Afegir arbre</string>
     <string name="add_tree_next_button">Següent</string>
@@ -29,7 +29,7 @@
     <string name="test_get">Get</string>
     <string name="title_activity_request_generator">RequestGenerator</string>
     <string name="show_request_generator">RG</string>
-    <string name="about_text">Sobre XiriArbre</string>
+    <string name="about_text">Sobre OpenTreeMap</string>
     <string name="profile_text">T has de loguejar o registrar per vore informació del perfil</string>
     <string name="list_text">Totes les llistes</string>
     <string name="filter_species_hint">Filtrar espècies...</string>
